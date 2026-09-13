@@ -1,3 +1,4 @@
+import React from "react";
 import style from "./Section.module.css";
 
 interface SectionProps {
